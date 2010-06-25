@@ -2,4 +2,10 @@ This will run a small program that sits in your system tray that will poll for n
 
 Currently only works with Outlook 2007 SP1 and up, and only on computers on the domain. The upside is that you dont need to supply a password.
 
+If you need something with more bells and whistles, take a look at:
+http://www.owatray.com/
+http://www.owanotify.com/
+
+Both of those didn't so what I needed, and after contacting both authors, still couldn't resolve issues so I wrote this.
+
 
