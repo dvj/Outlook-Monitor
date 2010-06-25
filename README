@@ -1,0 +1,5 @@
+This will run a small program that sits in your system tray that will poll for new Outlook messages, and then send a growl notification when you get one.
+
+Currently only works with Outlook 2007 SP1 and up, and only on computers on the domain. The upside is that you dont need to supply a password.
+
+
